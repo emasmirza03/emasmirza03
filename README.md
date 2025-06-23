@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Emas Mirza</h1>
+<h1 align="center">👋 Hello, I'm Emas A. Mirza</h1>
 <p align="center"><i>QA Engineer who breaks things intentionally — before your users do.</i></p>
 
 ---
