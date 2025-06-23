@@ -65,6 +65,13 @@ Beyond the code, I breed **Boa Constrictor Imperator** with a focus on clean gen
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emasmirza03&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+
+---
+
+<p align="center">
   <img src="https://img.shields.io/badge/Commits-1500%2B-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Automation%20Tests-Extensive-green?style=for-the-badge&logo=robotframework" />
   <img src="https://img.shields.io/badge/Private_Projects-Many-lightgrey?style=for-the-badge&logo=lock" />
