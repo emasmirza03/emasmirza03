@@ -65,7 +65,7 @@ Beyond the code, I breed **Boa Constrictor Imperator** with a focus on clean gen
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emasmirza03&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emasmirza03&layout=compact&theme=tokyonight&cache_seconds=30" alt="Top Languages"/>
 </p>
 
 
