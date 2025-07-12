@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/YAML-Configuration-critical?style=for-the-badge&logo=yaml" />
   <img src="https://img.shields.io/badge/Cypress-E2E_Testing-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-Cross_Browser-45ba63?style=for-the-badge&logo=playwright&logoColor=white" />
-Ï
 </p>
 
 ---
