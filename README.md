@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/YAML-Configuration-critical?style=for-the-badge&logo=yaml" />
   <img src="https://img.shields.io/badge/Cypress-E2E_Testing-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-Cross_Browser-45ba63?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/JQL-Jira_Query_Language-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
@@ -28,6 +29,7 @@ I'm Emas, an engineer who enjoys solving weird edge cases, automating repetitive
 - 📱 Automating mobile & web apps using **AppiumLibrary** & **BrowserLibrary**
 - 🚀 Running test pipelines using **GitHub Actions**
 - 📚 Writing clear test plans & test reports in **Confluence** and tracking bugs in **Jira**
+- 🔎 Learning and writing advanced queries using **JQL (Jira Query Language)**
 
 ---
 
@@ -37,7 +39,7 @@ I'm Emas, an engineer who enjoys solving weird edge cases, automating repetitive
 |----------------|---------------------------------------------------------------------|
 | Automation     | Robot Framework, SeleniumLibrary, AppiumLibrary, BrowserLibrary    |
 | CI Integration | GitHub Actions                                       |
-| Docs & Reports | Confluence & Jira                                          |
+| Docs & Reports | Confluence, Jira & **JQL (Jira Query Language)**              |
 | Current Role   | QA Automation Engineer at **Bukumed**                              |
 
 ---
